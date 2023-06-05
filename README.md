@@ -7,8 +7,11 @@ Apresentação Easy WMS-9
 Telas de WMS
 
 2- Consulta de Estoque por Produto e Endereço: inserir número do Produto ou Endereço do depósito
+
 3- Transferência Total: Colocar endereço 1 e endereço 2 para transferência TOTAL dos produtos
+
 4- Transferência Parcial: colocar endereço 1, endereço 2 e O PRODUTO para transferência avulsa
+
 5- Separação de Pedidos: A separar, Separados, Próximo Pedido, Associar comanda, Confirmar separação
 
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
