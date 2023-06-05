@@ -1,5 +1,11 @@
 Apresentação Easy WMS-9
 
+# Instalação
+
+1- Baixar o projeto no GITHUB e, no VSCode, executar via npm start (Executar npm install para instalar todas as dependências)
+
+2- Alterar a conexão da API no arquivo ".env" e ".env development"
+
 # Usabilidade das telas
 
 1- Logar com Filial, usuário e senha
@@ -33,17 +39,9 @@ Separação de Pedidos = Operador gerenciando a separação de pedidos de forma 
 
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
-# Endereços e Produtos para testes
+# Estilo dos Endereços e Produtos
 
-D1R01B002P08 = 9788539504602 5x
-
-D1R19B005P04 = 9788579144806 4x
-
-D1R06B019P04 = 7897763462014 2x
-
-D1R01B019P07 = 9788565358736 20x
-
-D1R19B005P04 = 9788579145575 3x
+D1-R01-B002-P08 = 9788539504602 
 
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
