@@ -47,11 +47,9 @@ D1-R01-B002-P08 = 9788539504602
 
 # Observações
 
-Projeto baseado em um WMS funcional realizado para meios facultativos, direcionados como desenvolvimento em *Projeto Prático de Construção de Sistemas Computacionais* para a UNINOVE.
+Projeto baseado em um WMS funcional realizado para meios facultativos, direcionados como desenvolvimento na materia de Projetos para a UNINOVE.
 
 Projeto não plagiado ou copiado de sites terceiros. Feito com base em cursos e conhecimentos gerais dos próprios alunos (React Js, Typescript, Node, CSS, Context API).
-
-(Telas como "Inventário" e "Transferência Individual" acabaram não sendo concluidas por complicações nos códigos e funcionalidades nos testes com a API e por isso não conseguimos entregá-las)
 
 # Colaboradores (Grupo de Alunos)
 
